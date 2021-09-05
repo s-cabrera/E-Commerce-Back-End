@@ -68,7 +68,7 @@ Now you can make requests to your server!
 
 ## [Demo](https://drive.google.com/file/d/1b9UrngUzqPjFB2z6fjByYTp_Jkuzo5U6/view)
 
-https://github.com/s-cabrera/E-Commerce-Back-End/blob/main/assets/demo.mp4
+* https://github.com/s-cabrera/E-Commerce-Back-End/blob/main/assets/demo.mp4
 
 ## Questions
 
