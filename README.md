@@ -68,8 +68,6 @@ Now you can make requests to your server!
 
 ## [Demo](https://drive.google.com/file/d/1b9UrngUzqPjFB2z6fjByYTp_Jkuzo5U6/view)
 
-![Walkthrough Video](https://github.com/s-cabrera/E-Commerce-Back-End/raw/main/assets/demo.mp4)
-
 ## Questions
 
 If you have any questions about the repo, open an issue or contact me directly at stephanie.cabrera.333@gmail.com. You can find more of my work at my [Github](https://github.com/s-cabrera/).
